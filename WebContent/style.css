@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+table, th, td {
+   border: 1px solid black;
+   cursor: default;
+}
+
+th, td {
+   height: 30px;
+   width: 80px;
+   text-align: center;
+   background: #769cbe;
+}
+#clear {
+     color: red;
+   }
+#equals {
+  color: rgb(35, 224, 54);
+}
+#result{
+  background-color: rgb(204, 164, 20)
+}
